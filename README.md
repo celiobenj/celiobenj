@@ -1,6 +1,7 @@
- - 🌎 I am from Brazil
- - 📚 I'm here just to study
-
+@ -0,0 +1,3 @@
+- 👋 Hi, I’m @celiobenj
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning Python and C++ for Arduino
 <!--
 **celiobenj/celiobenj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
