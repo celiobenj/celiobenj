@@ -1,4 +1,3 @@
-@ -0,0 +1,3 @@
 - 👋 Hi, I’m @celiobenj
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Python and C++ for Arduino
